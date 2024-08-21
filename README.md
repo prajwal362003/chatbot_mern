@@ -1,4 +1,5 @@
 ChatElevate - Boosting User Interactions with Smart AI
+
 ChatElevate is an advanced AI-driven chatbot platform that delivers intelligent, context-aware responses to user queries. Built on the MERN stack and integrated with the Gemini API, ChatElevate ensures a seamless and responsive user experience, making interactions more engaging and effective.
 
 Architecture
